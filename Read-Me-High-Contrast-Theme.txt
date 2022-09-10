@@ -1,0 +1,10 @@
+To access advance color options on Windows 10, use the links on Run
+
+set to 'High Contract White' before continouing
+
+explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921} -Microsoft.Personalization
+explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921} -Microsoft.Personalization\pageColorization
+explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921} -Microsoft.Personalization\pageWallpaper
+
+
+
